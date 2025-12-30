@@ -1,0 +1,17 @@
+---
+title: "Daily Life"
+listing: 
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [title, date, description]
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+---
+
+Welcome to the **Daily Life** section of my blog.  
+
+Outside of academics, I enjoy playing sports—especially soccer. I also love watching matches and analyzing soccer tactics; it's something I find truly fascinating.   
+
+---

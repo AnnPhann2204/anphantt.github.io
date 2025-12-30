@@ -1,0 +1,33 @@
+---
+title: "Academic Activities"
+---
+<br>
+
+## Publications
+
+1. **EDLAD: Ensemble Deep Learning for Alzheimer's Disease Detection using Brain EEG Signals**, with Xingquan Zhu, The 24th International Conference on Machine Learning and Applications (ICMLA), Boca Raton, FL, USA, Dec 3-5, 2025.   
+[PDF](https://drive.google.com/file/d/1JSSr1vAbWOPFCPB_je265IF62fifZ0iW/view?usp=drive_link){.btn-pdf target="_blank"}  
+
+1. **Portfolio Optimization for Long-Term Investment: An Empirical Study**, with Nu Dinh, Son Huynh, and Binh Nguyen, 22nd International Conference on Intelligent Software Methodologies, Tools, and Techniques (SoMeT 2023), Italy.    
+[Link](https://ebooks.iospress.nl/volumearticle/63937){.btn-pdf target="_blank"}  [PDF](https://drive.google.com/file/d/1eZHjd3bWNZXzmJ8NwQCDcCSOMX2VA0BF/view?usp=drive_link){.btn-pdf target="_blank"}  
+
+---
+
+
+<br>
+
+## Conference & Poster Presentations
+
+- **[ICMLA2025: The 24th International Conference on Machine Learning and Applications](https://www.icmla-conference.org/icmla25/){target="_blank"}**  
+  Boca Raton, FL, USA, Dec 3-5, 2025.
+
+- **[BIOFLORIDA EVENT: Regional Event at Florida Atlantic University](https://www.bioflorida.com/events/EventDetails.aspx?id=1979930&group=){target="_blank"}**  
+  Florida Atlantic University, October 16th, 2025
+
+
+<!-- ### Contributed Talks -->
+<!-- - ... -->
+
+## Talks
+
+- _To be updated..._

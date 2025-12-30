@@ -1,0 +1,137 @@
+/* css styles */
+.navbar-nav {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+
+pre.sourceCode.sage, code.sourceCode.sage {
+  background-color: #2e2e2e;
+  color: #f8f8f2;
+  padding: 1em;
+  border-radius: 6px;
+}
+
+a.people-link {  
+  color: #5a72e8;
+}
+
+a.caslte-link {  
+  color: #5c7b5c;
+}
+
+a.internal-link {
+  color: #cc0000;
+}
+
+a.photo-link {  
+  color: rgb(172, 111, 36);
+}
+
+/* Nút PDF (outline style) */
+.btn-pdf {
+  display: inline-block;
+  padding: 4px 10px;
+  margin: 5px 6px 5px 0;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.85em;
+  font-weight: 500;
+  font-family: inherit;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+  background-color: transparent;
+}
+
+.btn-pdf:hover {
+ background-color: #cc0000;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+
+.news-table tr {
+  height: 2.0em;       /* tăng chiều cao dòng */
+}
+
+.news-table td {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;  /* tăng khoảng cách trên và dưới text */
+}
+
+
+/* Chỉ canh giữa tiêu đề chính ở đầu trang */
+h1 {
+  text-align: center;
+}
+
+
+
+/* Giữ nguyên các tiêu đề cấp 2 trở xuống */
+h2, h3, h4, h5, h6 {
+  text-align: left;
+}
+
+
+
+.course-table table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 2px solid #000; /* viền ngoài đậm */
+}
+
+.course-table th,
+.course-table td {
+  border: 1px solid #000;   /* viền từng ô */
+  padding: 6px 10px;        /* dễ đọc */
+  vertical-align: top;      /* canh nội dung top rất đẹp */
+}
+
+.course-table th {
+  background-color: #f2f2f2;  /* giúp header nổi bật, tùy chọn */
+}
+/* Add this to your styles.css */
+/* Container for the whole project row */
+.timeline-item {
+  display: flex !important;
+  flex-direction: row;
+  margin-bottom: 0;      /* REMOVES THE GAP between rows */
+  padding-bottom: 2rem;  /* Creates the space INSIDE the row instead */
+}
+
+/* Left side: The Date */
+.timeline-time {
+  flex: 0 0 200px;
+  text-align: right;
+  padding-right: 25px;
+  font-weight: bold;
+  color: #007bff;
+  padding-top: 8px;      /* Adjusts date to sit level with the title */
+}
+
+/* Right side: The Project Info */
+.timeline-content {
+  flex: 1;
+  border-left: 2px solid #007bff; /* This is your vertical line */
+  padding-left: 25px;
+  padding-top: 8px;      /* Adjusts title to sit level with the date */
+  position: relative;
+}
+
+/* The blue dot */
+.timeline-content::before {
+  content: '';
+  position: absolute;
+  left: -6px;            /* Centers dot perfectly on the 2px line */
+  top: 15px;
+  width: 10px;
+  height: 10px;
+  background-color: #007bff;
+  border-radius: 50%;
+}
+
+/* Optional: Removes the line after the very last project */
+.timeline-item:last-child .timeline-content {
+  border-left: 2px solid transparent; 
+}

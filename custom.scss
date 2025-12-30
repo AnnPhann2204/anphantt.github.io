@@ -1,0 +1,114 @@
+/*-- scss:defaults --*/
+// $sidebar-bg: #f0f7ff; /* Changes the sidebar background variable */
+// $sidebar-color: #003366; /* Changes the sidebar text variable */
+$sidebar-bg: #001f3f;
+$sidebar-color: #ffffff;
+$sidebar-border-color: #003366;
+$sidebar-title-color: #ffffff;
+
+/*-- scss:rules --*/
+
+// 1. Make the Site Title (An Phan) White
+.sidebar-title, 
+.navbar-brand,
+#quarto-sidebar-header .sidebar-title a {
+  color: white !important;
+  opacity: 1 !important;
+}
+// Ensures sidebar links are white
+.sidebar nav[role=doc-toc] ul li a,
+.sidebar-navigation .sidebar-link {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+// Hover effect for links
+.sidebar-navigation .sidebar-link:hover {
+  color: #ffffff !important;
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+// Changes main page titles (like Academic Activities)
+h1.title, .title {
+  color: #003366 !important; // Matches your Deep Navy sidebar
+  font-weight: 1000;
+//   border-bottom: 2px solid #00d4ff; // Adds a thin cyan underline for style
+//   padding-bottom: 10px;
+}
+
+// Changes section headings (like Publications or Projects)
+h2 {
+  color: #014992 !important; // Slightly lighter navy
+  margin-top: 1.5rem;
+}
+
+// 1. FIX THE SITE TITLE (AN PHAN) COLOR
+.sidebar-title, .navbar-brand {
+  color: #ffffff !important;
+}
+
+// 2. FIX TABLE OF CONTENTS (RIGHT SIDE)
+// Ensures all links are always visible (not faded out)
+#TOC ul li a {
+  color: #444444 !important; /* Dark grey for readability */
+  opacity: 1 !important;      /* Removes the "hide" effect */
+  visibility: visible !important;
+}
+
+// Highlights the active section in Blue
+#TOC ul li a.active {
+  color: #007bff !important;
+  font-weight: bold;
+}
+
+// 3. FIX THE TIMELINE DATE COLUMN
+.timeline-time {
+  flex: 0 0 180px !important; /* Increased width to prevent text wrapping */
+  text-align: right;
+  padding-right: 25px;
+  font-weight: bold;
+  color: #333333;
+  padding-top: 8px;
+}
+
+// Ensures the timeline line is continuous
+.timeline-content {
+  border-left: 2px solid #007bff;
+  padding-bottom: 2rem; 
+  margin-bottom: 0px !important;
+}
+
+
+/* 1. Make the logo small and circular */
+.sidebar-logo {
+  display: block !important;
+  margin: 20px auto 10px auto !important;
+  width: 100px !important;               /* Reduced size */
+  height: 100px !important;
+  border-radius: 50% !important;         /* Circular shape */
+  border: 2px solid #00d4ff !important;  /* Cyan accent border */
+  object-fit: cover !important;          /* Keeps face centered */
+}
+
+/* 2. Center the Name Title */
+.sidebar-title {
+  text-align: center !important;
+  display: block !important;
+  color: white !important;
+  font-weight: bold;
+}
+
+/* 3. Style the Bio Text under the Title */
+.sidebar-bio {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.7);       /* Soft white color */
+  font-size: 0.85rem;
+  margin-top: -5px;                      /* Pulls text closer to name */
+  margin-bottom: 20px;                   /* Space before menu starts */
+  line-height: 1.3;
+}
+
+/* 4. Increase space between menu items as requested */
+.sidebar-item {
+  padding-top: 0.6rem !important;
+  padding-bottom: 0.6rem !important;
+}

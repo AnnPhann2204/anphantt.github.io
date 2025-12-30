@@ -1,0 +1,96 @@
+---
+title: "Research & Technical Projects"
+---
+<br>
+
+::: {.timeline-item}
+::: {.timeline-time}
+Jan 2025 – Present
+:::
+
+::: {.timeline-content}
+**EEG-Based Alzheimer’s Disease Detection**   
+*PhD Research Project · FAU*
+
+- Conducted research under the supervision of my advisor, developing deep learning and graph neural network models for Alzheimer’s disease detection using multi-channel EEG signals.
+- Extracted and analyzed spectral and connectivity-based features (e.g., PSD, relative band power, coherence) and explored graph-based representations for classification, evaluating performance at both segment and subject levels.
+- Designed and trained models using PyTorch, focusing on efficient training and scalable experimentation.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-time}
+Sep – Dec 2025
+:::
+
+::: {.timeline-content}
+**AI-Powered Multilingual Self Check-In**   
+*Software Engineering Course Project · FAU*
+
+- **Project Overview:** Designed and developed a secure, cloud-based patient self-check-in system integrating AI-powered facial recognition and automated appointment workflows, with a multilingual, patient-friendly interface to improve accessibility, privacy, and efficiency.
+- **Role & Contributions:** Designed system logic, functional requirements, and AI components, integrating **pretrained DeepFace/FaceNet models** for facial recognition. Collaborated closely with front-end and back-end teams to embed AI features into the web application, providing technical feedback and support to ensure accuracy, security, and usability across the system.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-time}
+Mar - May 2024
+:::
+
+::: {.timeline-content}
+**Building an Analytics Platform for Reference-Based Pricing in Healthcare**   
+*AISIA Research Lab*
+
+- **Developed an analytics platform** to support healthcare decision-making using Reference-Based Pricing benchmarks derived from CMS and payer datasets.
+-  Designed a **PostgreSQL data warehouse** with dimension and fact tables; performed data cleaning, standardization, and relational schema design to ensure high-quality data pipelines.
+- Built **Tableau dashboards** to visualize cost variations, and provide actionable insights for healthcare stakeholders.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-time}
+Oct - Dec 2023
+:::
+
+::: {.timeline-content}
+**Mining and Analyzing Customer Reviews for Hotels in Vietnam**   
+*AISIA Research Lab*
+
+- Served as **project coordinator** between AISIA Research Lab and industry clients, managing requirement gathering, cross-team communication, and project delivery for hospitality analytics projects.
+- Cleaned, standardized, and preprocessed large-scale customer review datasets from *Booking.com* and *TripAdvisor* to support downstream analysis.
+- Conducted statistical analysis and developed visual dashboards to identify customer behavior patterns and booking trends in Vietnamese hospitality industry.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-time}
+Aug 2023
+:::
+
+::: {.timeline-content}
+**Data for Change: Climate Data Analysis Education**   
+*Collaborative Project*
+
+- Designed and delivered instructional content including lesson plans, lecture notes, recorded videos, quizzes, and assignments hosted on Canvas LMS.
+- Developed hands-on tutorials guiding learners to acquire, process, and analyze climate datasets using RStudio.
+- Co-authored the educational eBook “Climate Data Analysis for Beginners,” focusing on accessible, beginner-friendly data analysis workflows.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-time}
+Sep 2022 - Jun 2023
+:::
+
+::: {.timeline-content}
+**Stock Portfolio Optimization using Deep Learning**   
+*Master Thesis*
+
+- Developed a deep learning framework for **portfolio optimization** using historical data from 50 Vietnamese stocks (2016–2021).
+- Constructed **3D financial tensors** integrating price data, trading volume, and technical indicators including exponential moving averages (EMA).
+- Designed and trained a **BiGRU model with self-attention** implemented in Keras (TensorFlow), achieving improved predictive performance and portfolio stability compared to baseline investment strategies.
+:::
+:::
+
+
+

@@ -1,0 +1,67 @@
+---
+title: "Curriculum Vitae"
+---
+:::{.text-center}
+[View CV](files/AnPhan_CV.pdf){.btn .btn-info target="_blank" style="margin-bottom: 0.5em;"}  
+<span style="color:gray; font-size: 90%;">(updated Dec 19, 2025)</span>
+:::
+
+
+
+## 🎓 Education
+
+-  Jan. 2025 – Present, **Ph.D. Student in Computer Engineering**, Florida Atlantic University      
+
+-  Jan. 2021 - Jun. 2023, **M.S. in Mathematical Foundations of Computer Science**, Ho Chi Minh City University of Science     
+   Thesis: *Stock Portfolio Optimization using Deep Learning*    
+   Supervisor: Prof. Nguyen Thanh Binh, Dr. Nguyen Thuy Ngoc 
+
+- Sep. 2015 – Jun. 2019, **B.S. in Mathematics Teacher Education**, Ho Chi Minh City University of Education     
+   Thesis: *Implement linear equations in STEM activity at high school*     
+   Supervisor: Dr. Tang Minh Dung   
+
+---
+
+## 💼 Employment
+
+-  May. 2025 – Present, **Graduate Research Assistant**, Florida Atlantic University
+
+-  Jan. 2025 – May. 2025, **Graduate Teaching Assistant**, Florida Atlantic University
+
+-  Jun. 2022 - Jun. 2024, **Research Assistant**, AISIA Research Lab
+
+---
+
+## 🛠 Skills
+
+- Programming: Python, R, SQL, Bash
+
+- ML Frameworks: PyTorch, TensorFlow, scikit-learn, Keras
+
+- Data Tools: Pandas, NumPy, Matplotlib, Tableau, PowerBI, Dbeaver, PostgreSQL
+
+- AI Areas: Machine Learning, Deep Learning (CNN, LSTM, Transformer), Graph Neural Network (GNNs)
+
+- Other: Git, Linux
+
+---
+
+## 🌐 Languages
+
+::: {.grid}
+::: {.g-col-6}
+**Vietnamese**  
+Native or bilingual proficiency
+:::
+
+::: {.g-col-6}
+**English**  
+Professional working proficiency
+:::
+:::
+
+
+## 📑 References
+
+
+

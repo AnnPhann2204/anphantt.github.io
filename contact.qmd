@@ -1,0 +1,28 @@
+---
+title: "Contact"
+---
+<br>
+
+If you would like to discuss a potential collaboration, please feel free to email me.  
+
+
+::: {.callout-note appearance="simple"}
+### 📧 **Email**:  
+anphantt97 [at] gmail [dot] com  
+tphan2025 [at] fau [dot] edu
+:::
+
+::: {.callout-note appearance="simple"}
+### 📍 **Address**:   
+Department of Mathematics and Statistics   
+Florida Atlantic University  
+777 Glades Rd, Boca Raton, FL 33431, USA
+:::
+
+
+
+
+
+<!-- <span style="color:gray">namle2024 [at] fau [dot] edu</span> -->
+
+

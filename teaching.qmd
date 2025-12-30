@@ -1,0 +1,33 @@
+---
+title: "Teaching"
+---
+<br>
+
+## Florida Atlantic University  
+
+I am currently a GTA in the Mathematical Department, where I have the opportunity to teach and tutor undergraduate students in various subjects. Teaching helps me deepen my understanding, as it requires clear and careful explanations. It is also one of my passions and was part of my minor during my bachelor’s studies.
+
+### Teaching
+
+- MGF 1130 - [Math Thinking in Context 1](syllabus\2025\MGF1130.qmd){.internal-link target="_blank"} (Fall 2025)
+
+
+
+### Grader
+
+- MAC 2312 – Calculus with Analytic Geometry 2 (Fall 2024, Spring 2025) 
+
+
+### Tutor
+
+- Provided tutoring support for various undergraduate mathematics courses at [Math Learning Center](https://www.fau.edu/mlc/){target="_blank"} (MLC)
+
+
+
+
+
+## Ho Chi Minh City University of Science  
+ - MTH10324 - [Algorithmic Number Theory](syllabus\2024\AlgorithmicNT.qmd){.internal-link target="_blank"} (Spring 2024)
+
+
+ 
